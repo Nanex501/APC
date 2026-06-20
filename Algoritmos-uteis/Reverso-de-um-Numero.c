@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int numeroReverso(int num)
 {
     int num_reverso = 0;
